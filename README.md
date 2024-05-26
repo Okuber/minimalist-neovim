@@ -1,4 +1,4 @@
-My personal neovim configuration files.
+nvim config go brrr
 
 ![screenshot_1](screenshot1.png)
 ![screenshot_2](screenshot2.png)
